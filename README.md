@@ -32,6 +32,45 @@ All members and staff should know the teamspeak rules
   - Adding "Admin", "Director", or other sorts also qualifies.
 - Do not use chat within the Quiet Zone channels.
 
+## Rules and Checklist for staff
+
+Staff requirements 
+- Respect other staff members
+    - All staff have a say and no staff should be considered above other
+- Do not move clients from AFK/Do Not Disturb without permission
+- Do not impersonate staff members
+   - This includes impersonating Lead Staff members
+- Donating does not give you a staff membership
+- Active at least once a week 
+Unless specifically acknowledged by other staff members that you are away for valid reasons
+- Kicking people for 
+    - Channel Hopping 
+    - Server kick
+    - Light abuse 
+    - Channel kick
+- Banning people for the correct amount of time. All server bans require you to specify the reason for the ban these include but arnt limited to:
+  - Channel hopping
+     - Server ban for 30 mins
+  - Abuse
+     - Server ban for 1 day
+  - Irritation beyond savior 
+     - Server ban for Forever
+
+## Recruitment techniques for members 
+- Advertise Nerdping everywhere
+- Don’t stop advertising, DO NOT SPAM!
+- Points to consider
+  - 512 Slot server
+  - 1 Gbit/s Uplink
+  - 99% uptime > [TS3 Status](http://status.nerdping.com/) 
+  - DDOS protection from Google Compute
+  - Simple and pleasing channel layout
+  - English teamspeak
+  - UK/EU/US based community 
+  - CS:GO oriented
+  - Large game selection
+  - Private channels and other perks (SimplyDM, etc) for small subscription fees
+
 ## Moderation
 NerdPing is moderated by a chosen board of staff members. There is a hierarchy within this board, however it is frowned upon to 'pull rank' on others in unnecessary circumstances. This hierarchy is determined on whether a staff member is that of a `moderator` or `manager`.
 
@@ -41,11 +80,10 @@ You must not have a significant amount of vaild complaints against you, and also
 ### Guidelines for elevating issues to management
 Issues range from fellow staff not abiding the rules set out in the "Rules channel" in teamspeak, a simple poke to a lead member of staff should be sufficent. Otherwise an email to [toby@nerdping.com](mail-to://toby@nerdping.com) or to [salty@nerdping.com](mail-to://salty@nerdping.com). `Kicks` and `Bans` are required to have a relevent reason and a appropriate corresponding time limit assigned to them in the case of a a ban.
 
-
-## Recruitment
+## Recruitment of NerdPing Staff
 For recruiting staff to NerdPing there are two main strategies, listed below. More often than not the former strategy is used to select `moderating staff`, whereas the latter used to select `management staff`.
 
-#### Application
+#### Application for Staff
 Application requires a member to submit and application to the staff team to be evaluated and reviewed. Said applicant can find a `moderating staff` or `management staff` application [here](https://github.com/nerdping/forms). The application must be correctly and completely filled in, unless stated otherwise. The application may submit the application via email to [applications@nerdping.com](mail-to://applications@nerdping.com). We aim to respond to applications within 7 days.
 
 If the application is sufficient, we will invite the applicant for an informal interview.
