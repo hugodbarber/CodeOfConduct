@@ -1,6 +1,37 @@
 # NerdPing CoC
 The binding Code of Conduct which community members and the staff team of NerdPing must abide by.
 
+## Teamspeak server group structure
+- Guest - Given as the default server group
+- Member - Given to people who have signed up to the website (given to most current Respected)
+- Staff - Staff are people who like to moderate the teamspeak, using the power to kick, ban and control the misbehaving. Also they have the power to move members and other staff members (not including lead staff).
+- Lead Staff - Lead staff should know who they are
+
+## TeamSpeak Server Rules
+All members and staff should know the teamspeak rules 
+
+- Follow correct TeamSpeak etiquette
+  - Join the corresponding channel to which game you are playing.
+  - Refrain from idling in a public/active channel.
+  - Refrain from barging into channels, disrupting others games.
+  - (Staff only) Do not move clients from AFK/Do Not Disturb without permission.
+- Do not spam other clients via pokes nor messages.
+- Assault is not tolerated.
+  - Verbal assault via written or spoken forms both qualify.
+  - Teasing is a form of assault.
+  - Racial slurs in a derogatory manor are also assault.
+- Do not flame nor troll other members.
+  - Hostility and insulting qualifies.
+  - Any form of communication constitutes flaming.
+- No advertising other servers.
+  - Linking to websites, TeamSpeak servers, steam groups, and social media is classed as advertising.
+  - It is okay to ask a singular person or small group to visit someone, as long as there is no intentional gain.
+- Do not impersonate staff members.
+  - Claiming to be staff away from TeamSpeak qualifies.
+  - Changing TeamSpeak nicknames to include staff members qualifies.
+  - Adding "Admin", "Director", or other sorts also qualifies.
+- Do not use chat within the Quiet Zone channels.
+
 ## Moderation
 NerdPing is moderated by a chosen board of staff members. There is a hierarchy within this board, however it is frowned upon to 'pull rank' on others in unnecessary circumstances. This hierarchy is determined on whether a staff member is that of a `moderator` or `manager`.
 
